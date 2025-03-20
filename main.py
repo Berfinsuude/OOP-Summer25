@@ -1,3 +1,13 @@
-# change it to print your name
+#create a function to add two number
 
-print("Hello, I am Piotr Brudny")
+def add(a, b):
+    return a + b 
+result = add(2, 3)
+print("sum", result)
+
+#create a string variable , print it
+message=("hello world and pyhton"):
+print=("message")
+
+
+
